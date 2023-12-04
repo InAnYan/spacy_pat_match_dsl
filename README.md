@@ -10,4 +10,4 @@ Cons:
 - Untested.
 - Unoptimized.
 
-For more details, read the example (`examples/example.py`) and the documentation.
+For more details, read the example (`examples/example.py`) and the documentation (*source code, actually*).

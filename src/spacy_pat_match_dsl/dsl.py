@@ -284,6 +284,7 @@ class And(PatternGenerator):
         -------
         List[Pattern]
         """
+        # :)
         return list(map(lambda x: list(itertools.chain(*x)),
                         itertools.product(*map(lambda x: x.generate_patterns(),
                                                self.lst))))
