@@ -1,5 +1,7 @@
+LICENSE
+README.md
+pyproject.toml
 setup.py
-spacy_pat_match_dsl/__init__.py
 spacy_pat_match_dsl.egg-info/PKG-INFO
 spacy_pat_match_dsl.egg-info/SOURCES.txt
 spacy_pat_match_dsl.egg-info/dependency_links.txt

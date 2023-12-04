@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spacy_pat_match_dsl"
+version = "1.0.0"
+description = "DSL inside Python for spaCy rule-based pattern matching"
+readme = "README.md"
+authors = [{ name = "Ruslan Popov", email = "ruslanpopov1512@gmail.com" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["dsl"]
+dependencies = []
+requires-python = ">=3.9"
+
+[project.urls]
+Homepage = "https://github.com/InAnYan/spacy_pat_match_dsl"
